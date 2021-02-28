@@ -1,0 +1,3 @@
+include ':ShraedLib'
+include ':app'
+rootProject.name = "SaveMore"
